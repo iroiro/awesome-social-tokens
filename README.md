@@ -16,6 +16,7 @@ Feel free to submit a pull request, with anything from small fixes you'd like to
 - [Stake On Me](https://stakeonme.com/)
 - [Fyooz](https://www.fyooz.io/)
 - [PERSONAL TOKENS](https://www.personaltokens.io/)
+- [Microsponsors](https://microsponsors.io/)
 
 ### Community Management
 
@@ -26,6 +27,10 @@ Feel free to submit a pull request, with anything from small fixes you'd like to
 - [Iroiro](https://app.iroiro.social/)
 - [Unite](https://unite.community/)
 - [tip.cc](https://tip.cc/)
+
+### Treasury Manage
+
+[Llama](https://llama.community/)
 
 ### Content Management
 
