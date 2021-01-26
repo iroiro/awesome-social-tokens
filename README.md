@@ -30,7 +30,7 @@ Feel free to submit a pull request, with anything from small fixes you'd like to
 
 ### Treasury Manage
 
-[Llama](https://llama.community/)
+- [Llama](https://llama.community/)
 
 ### Content Management
 
